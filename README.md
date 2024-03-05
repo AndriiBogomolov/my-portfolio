@@ -18,7 +18,6 @@ This is the [link](https://github.com/AndriiBogomolov/developer-portfolio) to th
 
 Below are are list of tools used, and the precise things they were used for:
 
-- [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
 - [Drawkit](https://www.drawkit.io/) for illustration
 - [Icon8](https://icons8.com/) for animated icons and skills icons
 - [Animate CSS](https://animate.style/) for bio text animation
