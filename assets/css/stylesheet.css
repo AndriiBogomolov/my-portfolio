@@ -93,6 +93,10 @@ nav ul {
   gap: 1.9rem;
 }
 
+.highlight {
+   font-style: italic;
+}
+
 /* Burger menu */
 
 .burger {
